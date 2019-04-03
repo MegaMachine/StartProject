@@ -1,5 +1,5 @@
 {
-  "name": "startproject",
+  "name": "...",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MegaMachine/StartProject.git"
+    "url": "git+https://github.com"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/MegaMachine/StartProject/issues"
+    "url": "https://github.com/.../issues"
   },
-  "homepage": "https://github.com/MegaMachine/StartProject#readme",
+  "homepage": "https://github.com/...#readme",
   "devDependencies": {
     "browser-sync": "^2.26.3",
     "del": "^3.0.0",
